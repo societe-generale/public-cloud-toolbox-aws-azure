@@ -1,0 +1,21 @@
+{
+  "Accounts":
+  [
+    {
+      "Name":"Account01Name",
+      "Id":"Account01Id",
+      "AwsAccessKeyId":false,
+      "AwsSecretAccessKey":false,
+      "ProfileName":false,
+      "AssumedRoleName":false
+    },
+    {
+      "Name":"Account02Name",
+      "Id":"Account02ID",
+      "AwsAccessKeyId":false,
+      "AwsSecretAccessKey":false,
+      "ProfileName":false,
+      "AssumedRoleName":false
+    }
+  ]
+}
